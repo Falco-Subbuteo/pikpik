@@ -1,2 +1,2 @@
 # pikpik
-Program który nie robi nic poza pikaniem. XD
+Program który nie robi nic, poza pikaniem. XD
